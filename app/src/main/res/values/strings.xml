@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Study</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="health_frag">this is the health fragment</string>
+    <string name="home_frag">this is the home fragment</string>
+    <string name="study_frag">this is the study fragment</string>
+
+</resources>

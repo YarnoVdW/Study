@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".HomeFragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/home_frag"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/home_text"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="#675D5D"
+        android:text="Welcome to appname\nMake sure to relax and play some calming music!"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/play_button"
+        android:layout_width="wrap_content"
+        android:layout_height="78dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="-150dp"
+        android:background="@drawable/ic_playbutton"
+        android:foreground="@drawable/ic_playbutton" />
+
+
+</FrameLayout>
