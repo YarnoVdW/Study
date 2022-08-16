@@ -41,5 +41,6 @@ data class StudyItem(var description: String, var numberOfLikes: Int) {
                 "values (${desc})")
         query.executeQuery()
         connection.close()
+        //
     }
 }
