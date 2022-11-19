@@ -16,7 +16,7 @@ class StudyItemViewModel(application: Application): AndroidViewModel(application
 
 
     fun readTrickList() {
-        _trickList.postValue(studyItem.getResult())
+        //_trickList.postValue(studyItem.description)
     }
 
 }

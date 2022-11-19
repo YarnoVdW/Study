@@ -84,7 +84,7 @@ class StudyFragment : Fragment() {
                 .setPositiveButton("Create") { dialog, _ ->
                     studyItem = StudyItem(studyExit.text.toString(), 0)
 
-                    studyItem.writeToDatabase(studyExit.text.toString())
+                    //studyItem.writeToDatabase(studyExit.text.toString())
                     dialog.dismiss()
                 }
                 .create()

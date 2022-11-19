@@ -7,13 +7,18 @@
         <entry key="app/src/main/res/drawable/ic_liquid_cheese.xml" value="0.12" />
         <entry key="app/src/main/res/drawable/ic_mentalh.xml" value="0.12" />
         <entry key="app/src/main/res/drawable/ic_playbutton.xml" value="0.12" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_shiny_overlay.xml" value="0.218" />
+        <entry key="app/src/main/res/layout/activity_layout.xml" value="0.13043478260869565" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.13043478260869565" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20871429443359377" />
         <entry key="app/src/main/res/layout/activity_main_study.xml" value="0.28125" />
         <entry key="app/src/main/res/layout/fragment_health.xml" value="0.25052490234374997" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.20357142857142857" />
-        <entry key="app/src/main/res/layout/fragment_study.xml" value="0.28815612792968753" />
+        <entry key="app/src/main/res/layout/fragment_study.xml" value="0.15126037597656253" />
         <entry key="app/src/main/res/layout/study_item.xml" value="0.16893115942028986" />
         <entry key="app/src/main/res/menu/nav_bottom.xml" value="0.18306732177734375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.218" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.218" />
       </map>
     </option>
   </component>
